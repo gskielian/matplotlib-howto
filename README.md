@@ -76,10 +76,10 @@ All that led to this:
 
 ![alt text](http://i.imgur.com/lQwRC07.png "woah man")
 
-There is a lot of stuff that can be messed with, like line styles, colors, etc.
-
 ## Step 5: Do more
 
-Go here and learn more: http://matplotlib.org/users/pyplot_tutorial.html
+There is a lot of stuff that can be messed with, like line styles, colors, etc.
+
+Go here and learn how to do all that ***and more***: http://matplotlib.org/users/pyplot_tutorial.html
 
 
